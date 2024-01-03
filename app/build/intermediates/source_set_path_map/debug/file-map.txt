@@ -1,0 +1,16 @@
+aplikasi.mobile.uas_rental_mobil.app-appcompat-resources-1.1.0-0 C:\Users\Agung\.gradle\caches\transforms-3\40cb74ad8c5086aea8fabbbc0c7fbd64\transformed\appcompat-resources-1.1.0\res
+aplikasi.mobile.uas_rental_mobil.app-appcompat-1.1.0-1 C:\Users\Agung\.gradle\caches\transforms-3\4a5e8ec6d7aa48e59166384f721de455\transformed\appcompat-1.1.0\res
+aplikasi.mobile.uas_rental_mobil.app-recyclerview-1.1.0-2 C:\Users\Agung\.gradle\caches\transforms-3\4ec406b6012a54af3c59888013dcb4d7\transformed\recyclerview-1.1.0\res
+aplikasi.mobile.uas_rental_mobil.app-cardview-1.0.0-3 C:\Users\Agung\.gradle\caches\transforms-3\93b82a20e71478f5ddfa231f35579a80\transformed\cardview-1.0.0\res
+aplikasi.mobile.uas_rental_mobil.app-transition-1.0.0-4 C:\Users\Agung\.gradle\caches\transforms-3\95d252151758b6d7da6b1b81165c83ad\transformed\transition-1.0.0\res
+aplikasi.mobile.uas_rental_mobil.app-coordinatorlayout-1.0.0-5 C:\Users\Agung\.gradle\caches\transforms-3\eface595435a04b804913103109b554e\transformed\coordinatorlayout-1.0.0\res
+aplikasi.mobile.uas_rental_mobil.app-constraintlayout-1.1.3-6 C:\Users\Agung\.gradle\caches\transforms-3\f790ba9b4b93d0594f138a0d970bfc27\transformed\constraintlayout-1.1.3\res
+aplikasi.mobile.uas_rental_mobil.app-material-1.0.0-7 C:\Users\Agung\.gradle\caches\transforms-3\fb7817ca96cad3caffdd13c7e974dfe0\transformed\material-1.0.0\res
+aplikasi.mobile.uas_rental_mobil.app-core-1.1.0-8 C:\Users\Agung\.gradle\caches\transforms-3\ffeb602019226d86224b3bf8025cb3f8\transformed\core-1.1.0\res
+aplikasi.mobile.uas_rental_mobil.app-pngs-9 D:\Bayu\rebeko-UAS-PAM\app\build\generated\res\pngs\debug
+aplikasi.mobile.uas_rental_mobil.app-resValues-10 D:\Bayu\rebeko-UAS-PAM\app\build\generated\res\resValues\debug
+aplikasi.mobile.uas_rental_mobil.app-mergeDebugResources-11 D:\Bayu\rebeko-UAS-PAM\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+aplikasi.mobile.uas_rental_mobil.app-mergeDebugResources-12 D:\Bayu\rebeko-UAS-PAM\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+aplikasi.mobile.uas_rental_mobil.app-merged_res-13 D:\Bayu\rebeko-UAS-PAM\app\build\intermediates\merged_res\debug
+aplikasi.mobile.uas_rental_mobil.app-debug-14 D:\Bayu\rebeko-UAS-PAM\app\src\debug\res
+aplikasi.mobile.uas_rental_mobil.app-main-15 D:\Bayu\rebeko-UAS-PAM\app\src\main\res

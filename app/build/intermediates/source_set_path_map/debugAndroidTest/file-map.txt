@@ -1,0 +1,4 @@
+aplikasi.mobile.uas_rental_mobil.test.app-androidTest-0 D:\Bayu\rebeko-UAS-PAM\app\build\generated\res\resValues\androidTest\debug
+aplikasi.mobile.uas_rental_mobil.test.app-mergeDebugAndroidTestResources-1 D:\Bayu\rebeko-UAS-PAM\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+aplikasi.mobile.uas_rental_mobil.test.app-mergeDebugAndroidTestResources-2 D:\Bayu\rebeko-UAS-PAM\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+aplikasi.mobile.uas_rental_mobil.test.app-merged_res-3 D:\Bayu\rebeko-UAS-PAM\app\build\intermediates\merged_res\debugAndroidTest

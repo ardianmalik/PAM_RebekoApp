@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable-xxhdpi_bg_home_curve.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-pngs-9:/drawable-xxhdpi/bg_home_curve.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable-anydpi-v24_bg_home_curve.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-pngs-9:/drawable-anydpi-v24/bg_home_curve.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable-mdpi_bg_home_curve.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-pngs-9:/drawable-mdpi/bg_home_curve.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_pajero.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/pajero.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_innova_reborn.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/innova_reborn.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/layout_activity_penyewa.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/layout/activity_penyewa.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable-xhdpi_bg_home_curve.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-pngs-9:/drawable-xhdpi/bg_home_curve.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/layout_activity_detail_penyewa.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/layout/activity_detail_penyewa.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable-ldpi_bg_home_curve.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-pngs-9:/drawable-ldpi/bg_home_curve.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_elf.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/elf.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/layout_activity_main.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/layout/activity_main.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_apv.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/apv.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable-xhdpi_bg_home_wave.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-pngs-9:/drawable-xhdpi/bg_home_wave.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable-ldpi_bg_home_wave.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-pngs-9:/drawable-ldpi/bg_home_wave.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_mobil_home.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/mobil_home.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/layout_activity_sewa.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/layout/activity_sewa.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_hiace.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/hiace.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/layout_activity_detail_mobil.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/layout/activity_detail_mobil.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/anim_anim_tv.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/anim/anim_tv.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_button_background.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/button_background.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_rush.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/rush.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_xenia.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/xenia.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_background_textview.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/background_textview.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/layout_activity_mobil.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/layout/activity_mobil.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_avanza.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/avanza.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable-mdpi_bg_home_wave.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-pngs-9:/drawable-mdpi/bg_home_wave.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable-xxhdpi_bg_home_wave.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-pngs-9:/drawable-xxhdpi/bg_home_wave.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_back.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/back.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable-xxxhdpi_bg_home_wave.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-pngs-9:/drawable-xxxhdpi/bg_home_wave.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_jazz.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/jazz.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_xpander.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/xpander.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_background_item.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/background_item.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_ertiga.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/ertiga.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable-xxxhdpi_bg_home_curve.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-pngs-9:/drawable-xxxhdpi/bg_home_curve.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable-hdpi_bg_home_wave.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-pngs-9:/drawable-hdpi/bg_home_wave.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_innova.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/innova.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-pngs-9:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable-anydpi-v24_bg_home_wave.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-pngs-9:/drawable-anydpi-v24/bg_home_wave.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_ic_launcher_background.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_fortuner.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/fortuner.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_mobilio.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/mobilio.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable-hdpi_bg_home_curve.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-pngs-9:/drawable-hdpi/bg_home_curve.png"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_ic_date.xml.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/ic_date.xml"
+    },
+    {
+        "merged": "aplikasi.mobile.uas_rental_mobil.app-merged_res-13:/drawable_alphard.png.flat",
+        "source": "aplikasi.mobile.uas_rental_mobil.app-main-15:/drawable/alphard.png"
+    }
+]
